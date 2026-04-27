@@ -1,0 +1,14 @@
+{
+  "FP32": {
+    "size_mb": 0.1059,
+    "accuracy": 96.92,
+    "latency_mean_ms": 0.033,
+    "latency_p95_ms": 0.033
+  },
+  "INT8": {
+    "size_mb": 0.0373,
+    "accuracy": 96.69,
+    "latency_mean_ms": 0.028,
+    "latency_p95_ms": 0.028
+  }
+}
